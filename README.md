@@ -16,22 +16,18 @@ This project provides an interactive dashboard for SOC Analysts to monitor key s
     ```bash
     git clone <repo-url>
     cd <repo-folder>
-
 2. Install dependencies:
 
    ```bash
       pip install -r requirements.txt
-   
 3. Run the dashboard:
 
    ```bashe
     python app.py
-
 4. Open your browser and navigate to:
 
    ```bash
     http://127.0.0.1:8050
-
 ## Data Format
 The dashboard expects incident data in incidents.csv with the following columns:
 
@@ -51,3 +47,4 @@ The dashboard expects incident data in incidents.csv with the following columns:
    ```
 
 License
+This project is licensed under the [MIT License](LICENSE).
