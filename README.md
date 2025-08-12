@@ -23,11 +23,11 @@ This project provides an interactive dashboard for SOC Analysts to monitor key s
 3. Run the dashboard:
 
    ```bashe
-    python app.py
+   python app.py
 4. Open your browser and navigate to:
 
    ```bash
-    http://127.0.0.1:8050
+   http://127.0.0.1:8050
 ## Data Format
 The dashboard expects incident data in incidents.csv with the following columns:
 
