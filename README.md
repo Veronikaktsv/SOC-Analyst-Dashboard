@@ -1,4 +1,4 @@
-# SOC Analyst Dashboard
+look # SOC Analyst Dashboard
 
 This project provides an interactive dashboard for SOC Analysts to monitor key security operation center (SOC) metrics such as Mean Time to Detect (MTTD), Mean Time to Respond (MTTR), and incident counts by type and severity.
 
@@ -14,8 +14,8 @@ This project provides an interactive dashboard for SOC Analysts to monitor key s
 1. Clone this repository:
 
     ```bash
-    git clone <repo-url>
-    cd <repo-folder>
+    git clone https://github.com/SOC-Analyst-Dashboard.git
+    cd SOC-Analyst-Dashboard
 2. Install dependencies:
 
    ```bash
